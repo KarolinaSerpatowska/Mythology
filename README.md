@@ -1,6 +1,8 @@
 # MythologyCPP
 
-Small educational game made for my master thesis - "Podróż do krainy olbrzymów"
+Podróż do krainy olbrzymów
+
+Small educational game made for my master thesis.
 
 All of mine code and assets can NOT be used commercially without permission.
 
