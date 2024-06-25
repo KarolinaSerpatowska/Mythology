@@ -1,4 +1,4 @@
-# MythologyCPP
+# Mythology
 
 Podróż do krainy olbrzymów
 
